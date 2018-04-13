@@ -1,0 +1,27 @@
+.body-container {
+  display: flex;
+  justify-content: center;
+}
+
+.background-table {
+  height: 100vh;
+  width: 100%;
+  opacity: .4;
+  position: absolute;
+  z-index: -1
+}
+
+.hey {
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  margin-top: 10vh;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.welcome {
+  font-size: 30px;
+  font-style: normal;
+}

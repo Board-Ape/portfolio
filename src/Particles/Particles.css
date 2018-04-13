@@ -1,0 +1,28 @@
+.particle-container {
+  width: 50%;
+  position: absolute;
+  z-index: 1;
+  margin-top: 20vh;
+}
+
+.click {
+  font-size: 12px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.explore-button {
+  font-size: 24px;
+  opacity: .2;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  height: 40px;
+  width: 60%;
+  margin: 30px 20%;
+}
+
+.explore-button:hover {
+  opacity: .8;
+}
