@@ -1,0 +1,42 @@
+.inner-container {
+  border-bottom: 1px #eee solid;
+}
+
+.linkedin-icon {
+  height: 60px;
+  margin-right: 20px;
+  opacity: .5;
+}
+
+.linkedin-icon:hover {
+  opacity: 1;
+}
+
+.facebook-icon {
+  height: 60px;
+  margin-right: 20px;
+  opacity: .5;
+}
+
+.facebook-icon:hover {
+  opacity: 1;
+}
+
+.gmail-icon {
+  height: 68px;
+  opacity: .5;
+}
+
+.gmail-icon:hover {
+  opacity: 1;
+}
+
+.email-container {
+  width: 90%;
+  margin: auto;
+}
+
+.email-address {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}

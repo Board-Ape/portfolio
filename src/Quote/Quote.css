@@ -1,0 +1,13 @@
+.quote-text {
+  color: #aac7d9;
+  margin-top: 110px;
+  font-size: 22px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.quote-name {
+  font-size: 18px;
+  font-style: italic;
+  margin-bottom: 100px;
+}

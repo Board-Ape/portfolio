@@ -1,0 +1,76 @@
+.left-container {
+  width: 33%;
+  color: rgba(42, 156, 213, 1);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.profile-picture {
+  margin-top: 60px;
+  height: 140px;
+  width: 100px;
+  opacity: .6;
+  border-radius: 6px;
+  border: 6px solid rgba(170, 199, 217, 1);
+  transition: opacity 1s;
+}
+
+.profile-picture:hover {
+  opacity: 1;
+  border: 6px solid rgba(42, 156, 213, 1);
+}
+
+.hover-darken-text {
+  font-size: 8px;
+  font-style: italic;
+  margin-top: 0;
+  margin-left: 6px;
+}
+
+.section-title {
+  margin-bottom: 0;
+  font-size: 1.75em;
+  letter-spacing: 2px;
+}
+
+.section-dashes {
+  display: block;
+  width: 60px;
+  height: 4px;
+  border: 0;
+  border-top: 4px solid rgba(42, 156, 213, 1);
+  margin: 1em 0;
+  padding: 0;
+}
+
+.icon {
+  height: 50px;
+  margin-top: 0;
+}
+
+.about-icon:hover {
+  opacity: .5;
+}
+
+.right-container {
+  width: 67%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.title-name {
+  margin-bottom: 10px;
+  color: #227daa;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.para {
+  margin-top: 0;
+  color: #227daa;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  line-height: 2;
+}
