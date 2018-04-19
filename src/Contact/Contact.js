@@ -4,7 +4,7 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <div className="contact-container">
-      <div className="inner-container">
+      <div className="inner-container contact-border">
         <div className="left-container">
           <h1 className="section-title">CONTACT</h1>
           <hr className="section-dashes"/>

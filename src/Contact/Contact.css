@@ -1,4 +1,4 @@
-.inner-container {
+.contact-border {
   border-bottom: 1px #eee solid;
 }
 
@@ -39,4 +39,5 @@
 .email-address {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
+  color: #227daa;
 }
