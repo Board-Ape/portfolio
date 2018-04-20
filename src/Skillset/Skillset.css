@@ -27,3 +27,25 @@
 .css-icon {
   margin-right: 15px;
 }
+
+@media only screen and (max-width: 600px) {
+  .icon-s {
+    height: 90px;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .icon-s {
+    height: 80px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .icon-s {
+    height: 70px;
+  }
+}
+@media only screen and (max-width: 350px) {
+  .icon-s {
+    height: 60px;
+  }
+}

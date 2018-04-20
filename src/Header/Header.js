@@ -15,7 +15,7 @@ const Header = () => {
         <hr className="software-dash"/>
         <h3 className="description">
           Creating full scale applications utilizing
-          the lastest in technologies and frameworks.
+          the lastest technologies, frameworks and libraries.
         </h3>
       </div>
       <Quote />

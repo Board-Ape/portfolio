@@ -18,7 +18,7 @@ const Education = () => {
           <h2 className="projects-title">Colorado State University</h2>
           <h3 className="education-description">B.A. in Psychology</h3>
           <h4 className="date-range">08, 2008 - 05, 2012</h4>
-          <hr className="software-dash spacing" />
+          <hr className="software-dash spacing last-hr" />
         </div>
       </div>
     </div>
