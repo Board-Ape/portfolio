@@ -38,7 +38,7 @@ const Projects = () => {
             <br />
             <a className="live-link" href="http://swapi-box-sys.surge.sh/" target="_blank" rel="noopener noreferrer">Live Site</a>
             <a href="https://github.com/Cache123/swapi-box-2" target="_blank" rel="noopener noreferrer">Github Code</a>
-            <hr className="software-dash spacing" />
+            <hr className="software-dash spacing last-hr" />
         </div>
       </div>
     </div>
