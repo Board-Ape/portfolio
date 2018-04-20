@@ -11,9 +11,9 @@ const Header = () => {
         </h1>
       </div>
       <div className="description-container">
-        <h2 className="software">SOFTWARE DEVELOPER</h2>
-        <hr className="software-dash"/>
-        <h3 className="description">
+        <h2 className="software fade-in">SOFTWARE DEVELOPER</h2>
+        <hr className="software-dash fade-in"/>
+        <h3 className="description fade-in">
           Creating full scale applications utilizing
           the lastest technologies, frameworks and libraries.
         </h3>

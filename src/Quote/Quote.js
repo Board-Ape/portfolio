@@ -5,7 +5,7 @@ const Quote = () => {
   return (
     <div className="quote-container">
       <div className="inner-container">
-        <h1 className="quote-text">
+        <h1 className="quote-text fade-in">
         "You miss 100% of the shots you don't take!"
         <br />
           <span className="quote-name">
