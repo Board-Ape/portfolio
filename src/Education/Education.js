@@ -12,7 +12,7 @@ const Education = () => {
         </div>
         <div className="right-container">
           <h2 className="projects-title">Turing School of Software & Design</h2>
-          <h3 className="education-description">1500+ Hrs Front-End Engineering Certificate</h3>
+          <h3 className="education-description">Front-End Engineering Certificate - 1500+ Hrs</h3>
           <h4 className="date-range">06, 2017 - 03, 2018</h4>
           <hr className="software-dash spacing" />
           <h2 className="projects-title">Colorado State University</h2>
