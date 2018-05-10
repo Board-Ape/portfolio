@@ -37,7 +37,7 @@ const Projects = () => {
             <hr className="software-dash spacing" />
           <h2 className="project-3 projects-title">Enigma</h2>
             <img className="desktop" src={ require('./project-screen-shots/enigma-opening.png') } alt="Desktop screen size." />
-            <img className="desktop" src={ require('./project-screen-shots/enigma.png') } alt="Desktop screen size." />
+            <img className="desktop" src={ require('./project-screen-shots/enigma-end.png') } alt="Desktop screen size." />
             <br />
             <p className="project-description">
               <strong>Enigma</strong> is a game rendition of the mobile hit Flappy Bird. Capabilities include: custom artwork, collision detection/real
