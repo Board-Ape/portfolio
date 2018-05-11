@@ -13,18 +13,18 @@ const About = () => {
         <div className="right-container">
           <h2 className="title-name fade-in"> Samuel Y Singer </h2>
           <p className="first-paragraph para fade-in">
-           Sam is an aspiring developer who strives to write code based around
-           a few key principals, but are not limited to: scalability, performance,
+           Sam is an aspiring developer who strives to write code based upon
+           a few key principals: scalability, performance,
            reusability and great user experience.
           <br />
            His strengths surround code written in JavaScript, utilizing a
            variety of the latest technologies, frameworks and libraries.
           </p>
           <p className="second-paragraph para fade-in">
-            As an imaginative designer and empathetic developer, creating code
-            that conforms to the industry best practices, standards and
-            accessibility are critical to him. The design choice Sam often
-            strives for are simple, refined and intuitive UI/UX.
+            As an imaginative designer and empathetic developer, it is critical
+            to him to create code that conforms to the industry best practices,
+            standards and accessibility. The design choices Sam strives for are
+            simple, refined and intuitive UI/UX.
           </p>
         </div>
       </div>
@@ -33,8 +33,3 @@ const About = () => {
 }
 
 export default About;
-
-// May or may not use in the future
-// <br />
-// <img className="profile-picture" src={  require('./sam-singer.jpg') } alt="My face"/>
-// <p className="hover-darken-text">HOVER TO DARKEN</p>
